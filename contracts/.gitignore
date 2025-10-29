@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Hardhat build artifacts and cache
+artifacts/
+cache/
+
+# Test coverage reports
+coverage/
+coverage.json
+
+# Environment variables - VERY IMPORTANT!
+.env
+
+# Log files
+*.log
+npm-debug.log
+yarn-error.log
